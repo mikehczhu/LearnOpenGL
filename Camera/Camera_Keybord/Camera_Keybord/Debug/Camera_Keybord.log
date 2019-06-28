@@ -1,0 +1,3 @@
+﻿  main.cpp
+f:\vs2017\learnopengl\camera\camera_keybord\camera_keybord\main.cpp(164): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Camera_Keybord.vcxproj -> F:\vs2017\LearnOpenGL\Camera\Camera_Keybord\Debug\Camera_Keybord.exe
