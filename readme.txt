@@ -1,1 +1,4 @@
-learn opengl
+所有的程序只需要配置包含目录和库目录以及输入依赖项
+输入依赖项为：
+opengl32.lib
+glfw3.lib
