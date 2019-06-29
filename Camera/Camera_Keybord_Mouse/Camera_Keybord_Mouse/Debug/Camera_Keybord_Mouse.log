@@ -1,0 +1,10 @@
+﻿  main.cpp
+f:\vs2017\learnopengl\camera\camera_keybord_mouse\camera_keybord_mouse\main.cpp(175): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\camera\camera_keybord_mouse\camera_keybord_mouse\main.cpp(242): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\camera\camera_keybord_mouse\camera_keybord_mouse\main.cpp(257): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\camera\camera_keybord_mouse\camera_keybord_mouse\main.cpp(258): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\camera\camera_keybord_mouse\camera_keybord_mouse\main.cpp(261): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\camera\camera_keybord_mouse\camera_keybord_mouse\main.cpp(262): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\camera\camera_keybord_mouse\camera_keybord_mouse\main.cpp(263): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\camera\camera_keybord_mouse\camera_keybord_mouse\main.cpp(264): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Camera_Keybord_Mouse.vcxproj -> F:\vs2017\LearnOpenGL\Camera\Camera_Keybord_Mouse\Debug\Camera_Keybord_Mouse.exe
