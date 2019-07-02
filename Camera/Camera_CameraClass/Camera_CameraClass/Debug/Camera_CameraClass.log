@@ -1,0 +1,10 @@
+﻿  main.cpp
+f:\vs2017\learnopengl\camera\camera_cameraclass\camera_cameraclass\main.cpp(165): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\camera\camera_cameraclass\camera_cameraclass\main.cpp(235): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\camera\camera_cameraclass\camera_cameraclass\main.cpp(236): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\camera\camera_cameraclass\camera_cameraclass\main.cpp(239): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\camera\camera_cameraclass\camera_cameraclass\main.cpp(240): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\camera\camera_cameraclass\camera_cameraclass\main.cpp(241): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\camera\camera_cameraclass\camera_cameraclass\main.cpp(242): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\camera\camera_cameraclass\camera_cameraclass\main.cpp(247): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Camera_CameraClass.vcxproj -> F:\vs2017\LearnOpenGL\Camera\Camera_CameraClass\Debug\Camera_CameraClass.exe
