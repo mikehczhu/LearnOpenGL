@@ -1,0 +1,10 @@
+﻿  main.cpp
+f:\vs2017\learnopengl\colors\colors\colors\main.cpp(167): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\colors\colors\colors\main.cpp(250): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\colors\colors\colors\main.cpp(251): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\colors\colors\colors\main.cpp(254): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\colors\colors\colors\main.cpp(255): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\colors\colors\colors\main.cpp(256): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\colors\colors\colors\main.cpp(257): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\colors\colors\colors\main.cpp(262): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Colors.vcxproj -> F:\vs2017\LearnOpenGL\Colors\Colors\Debug\Colors.exe
