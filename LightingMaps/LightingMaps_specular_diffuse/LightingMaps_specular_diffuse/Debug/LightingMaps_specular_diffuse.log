@@ -1,0 +1,10 @@
+﻿  main.cpp
+f:\vs2017\learnopengl\lightingmaps\lightingmaps_specular_diffuse\lightingmaps_specular_diffuse\main.cpp(169): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightingmaps\lightingmaps_specular_diffuse\lightingmaps_specular_diffuse\main.cpp(278): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightingmaps\lightingmaps_specular_diffuse\lightingmaps_specular_diffuse\main.cpp(279): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightingmaps\lightingmaps_specular_diffuse\lightingmaps_specular_diffuse\main.cpp(282): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightingmaps\lightingmaps_specular_diffuse\lightingmaps_specular_diffuse\main.cpp(283): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightingmaps\lightingmaps_specular_diffuse\lightingmaps_specular_diffuse\main.cpp(284): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightingmaps\lightingmaps_specular_diffuse\lightingmaps_specular_diffuse\main.cpp(285): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightingmaps\lightingmaps_specular_diffuse\lightingmaps_specular_diffuse\main.cpp(290): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  LightingMaps_specular_diffuse.vcxproj -> F:\vs2017\LearnOpenGL\LightingMaps\LightingMaps_specular_diffuse\Debug\LightingMaps_specular_diffuse.exe
