@@ -1,0 +1,16 @@
+﻿  glad.c
+  main.cpp
+f:\vs2017\learnopengl\materials\materials_dynamic\materials_dynamic\main.cpp(123): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\materials\materials_dynamic\materials_dynamic\main.cpp(151): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\materials\materials_dynamic\materials_dynamic\main.cpp(152): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\materials\materials_dynamic\materials_dynamic\main.cpp(153): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\materials\materials_dynamic\materials_dynamic\main.cpp(238): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\materials\materials_dynamic\materials_dynamic\main.cpp(239): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\materials\materials_dynamic\materials_dynamic\main.cpp(242): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\materials\materials_dynamic\materials_dynamic\main.cpp(243): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\materials\materials_dynamic\materials_dynamic\main.cpp(244): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\materials\materials_dynamic\materials_dynamic\main.cpp(245): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\materials\materials_dynamic\materials_dynamic\main.cpp(250): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  stb_image.cpp
+  正在生成代码...
+  Materials_dynamic.vcxproj -> F:\vs2017\LearnOpenGL\Materials\Materials_dynamic\Debug\Materials_dynamic.exe
