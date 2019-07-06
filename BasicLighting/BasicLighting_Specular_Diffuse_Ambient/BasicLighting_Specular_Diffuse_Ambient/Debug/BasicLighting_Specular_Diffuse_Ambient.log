@@ -1,0 +1,10 @@
+﻿  main.cpp
+f:\vs2017\learnopengl\basiclighting\basiclighting_specular_diffuse_ambient\basiclighting_specular_diffuse_ambient\main.cpp(185): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\basiclighting\basiclighting_specular_diffuse_ambient\basiclighting_specular_diffuse_ambient\main.cpp(291): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\basiclighting\basiclighting_specular_diffuse_ambient\basiclighting_specular_diffuse_ambient\main.cpp(292): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\basiclighting\basiclighting_specular_diffuse_ambient\basiclighting_specular_diffuse_ambient\main.cpp(295): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\basiclighting\basiclighting_specular_diffuse_ambient\basiclighting_specular_diffuse_ambient\main.cpp(296): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\basiclighting\basiclighting_specular_diffuse_ambient\basiclighting_specular_diffuse_ambient\main.cpp(297): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\basiclighting\basiclighting_specular_diffuse_ambient\basiclighting_specular_diffuse_ambient\main.cpp(298): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\basiclighting\basiclighting_specular_diffuse_ambient\basiclighting_specular_diffuse_ambient\main.cpp(303): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  BasicLighting_Specular_Diffuse_Ambient.vcxproj -> F:\vs2017\LearnOpenGL\BasicLighting\BasicLighting_Specular_Diffuse_Ambient\Debug\BasicLighting_Specular_Diffuse_Ambient.exe
