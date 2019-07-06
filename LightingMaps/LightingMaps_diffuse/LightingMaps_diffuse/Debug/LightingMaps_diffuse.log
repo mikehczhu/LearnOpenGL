@@ -1,0 +1,10 @@
+﻿  main.cpp
+f:\vs2017\learnopengl\lightingmaps\lightingmaps_diffuse\lightingmaps_diffuse\main.cpp(146): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightingmaps\lightingmaps_diffuse\lightingmaps_diffuse\main.cpp(229): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightingmaps\lightingmaps_diffuse\lightingmaps_diffuse\main.cpp(230): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightingmaps\lightingmaps_diffuse\lightingmaps_diffuse\main.cpp(233): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightingmaps\lightingmaps_diffuse\lightingmaps_diffuse\main.cpp(234): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightingmaps\lightingmaps_diffuse\lightingmaps_diffuse\main.cpp(235): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightingmaps\lightingmaps_diffuse\lightingmaps_diffuse\main.cpp(236): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightingmaps\lightingmaps_diffuse\lightingmaps_diffuse\main.cpp(241): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  LightingMaps_diffuse.vcxproj -> F:\vs2017\LearnOpenGL\LightingMaps\LightingMaps_diffuse\Debug\LightingMaps_diffuse.exe
