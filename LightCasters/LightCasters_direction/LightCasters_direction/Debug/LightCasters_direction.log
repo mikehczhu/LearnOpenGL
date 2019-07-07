@@ -1,0 +1,10 @@
+﻿  main.cpp
+f:\vs2017\learnopengl\lightcasters\lightcasters_direction\lightcasters_direction\main.cpp(184): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightcasters\lightcasters_direction\lightcasters_direction\main.cpp(274): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightcasters\lightcasters_direction\lightcasters_direction\main.cpp(275): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightcasters\lightcasters_direction\lightcasters_direction\main.cpp(278): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightcasters\lightcasters_direction\lightcasters_direction\main.cpp(279): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightcasters\lightcasters_direction\lightcasters_direction\main.cpp(280): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightcasters\lightcasters_direction\lightcasters_direction\main.cpp(281): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightcasters\lightcasters_direction\lightcasters_direction\main.cpp(286): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  LightCasters_direction.vcxproj -> F:\vs2017\LearnOpenGL\LightCasters\LightCasters_direction\Debug\LightCasters_direction.exe
