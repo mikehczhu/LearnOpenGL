@@ -1,0 +1,10 @@
+﻿  main.cpp
+f:\vs2017\learnopengl\lightcasters\lightcasters_point\lightcasters_point\main.cpp(184): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightcasters\lightcasters_point\lightcasters_point\main.cpp(301): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightcasters\lightcasters_point\lightcasters_point\main.cpp(302): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightcasters\lightcasters_point\lightcasters_point\main.cpp(305): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightcasters\lightcasters_point\lightcasters_point\main.cpp(306): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightcasters\lightcasters_point\lightcasters_point\main.cpp(307): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightcasters\lightcasters_point\lightcasters_point\main.cpp(308): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightcasters\lightcasters_point\lightcasters_point\main.cpp(313): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  LightCasters_point.vcxproj -> F:\vs2017\LearnOpenGL\LightCasters\LightCasters_point\Debug\LightCasters_point.exe
