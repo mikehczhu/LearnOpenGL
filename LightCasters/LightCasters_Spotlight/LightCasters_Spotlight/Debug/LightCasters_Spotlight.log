@@ -1,0 +1,10 @@
+﻿  main.cpp
+f:\vs2017\learnopengl\lightcasters\lightcasters_spotlight\lightcasters_spotlight\main.cpp(183): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightcasters\lightcasters_spotlight\lightcasters_spotlight\main.cpp(278): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightcasters\lightcasters_spotlight\lightcasters_spotlight\main.cpp(279): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightcasters\lightcasters_spotlight\lightcasters_spotlight\main.cpp(282): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightcasters\lightcasters_spotlight\lightcasters_spotlight\main.cpp(283): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightcasters\lightcasters_spotlight\lightcasters_spotlight\main.cpp(284): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightcasters\lightcasters_spotlight\lightcasters_spotlight\main.cpp(285): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\lightcasters\lightcasters_spotlight\lightcasters_spotlight\main.cpp(290): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  LightCasters_Spotlight.vcxproj -> F:\vs2017\LearnOpenGL\LightCasters\LightCasters_Spotlight\Debug\LightCasters_Spotlight.exe
