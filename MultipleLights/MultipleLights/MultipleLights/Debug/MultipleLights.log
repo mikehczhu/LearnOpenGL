@@ -1,0 +1,20 @@
+﻿  main.cpp
+f:\vs2017\learnopengl\multiplelights\multiplelights\multiplelights\main.cpp(194): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\multiplelights\multiplelights\multiplelights\main.cpp(229): warning C4305: “参数”: 从“double”到“float”截断
+f:\vs2017\learnopengl\multiplelights\multiplelights\multiplelights\main.cpp(230): warning C4305: “参数”: 从“double”到“float”截断
+f:\vs2017\learnopengl\multiplelights\multiplelights\multiplelights\main.cpp(237): warning C4305: “参数”: 从“double”到“float”截断
+f:\vs2017\learnopengl\multiplelights\multiplelights\multiplelights\main.cpp(238): warning C4305: “参数”: 从“double”到“float”截断
+f:\vs2017\learnopengl\multiplelights\multiplelights\multiplelights\main.cpp(245): warning C4305: “参数”: 从“double”到“float”截断
+f:\vs2017\learnopengl\multiplelights\multiplelights\multiplelights\main.cpp(246): warning C4305: “参数”: 从“double”到“float”截断
+f:\vs2017\learnopengl\multiplelights\multiplelights\multiplelights\main.cpp(253): warning C4305: “参数”: 从“double”到“float”截断
+f:\vs2017\learnopengl\multiplelights\multiplelights\multiplelights\main.cpp(254): warning C4305: “参数”: 从“double”到“float”截断
+f:\vs2017\learnopengl\multiplelights\multiplelights\multiplelights\main.cpp(262): warning C4305: “参数”: 从“double”到“float”截断
+f:\vs2017\learnopengl\multiplelights\multiplelights\multiplelights\main.cpp(263): warning C4305: “参数”: 从“double”到“float”截断
+f:\vs2017\learnopengl\multiplelights\multiplelights\multiplelights\main.cpp(365): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\multiplelights\multiplelights\multiplelights\main.cpp(366): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\multiplelights\multiplelights\multiplelights\main.cpp(370): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\multiplelights\multiplelights\multiplelights\main.cpp(371): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\multiplelights\multiplelights\multiplelights\main.cpp(373): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\multiplelights\multiplelights\multiplelights\main.cpp(374): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\multiplelights\multiplelights\multiplelights\main.cpp(383): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  MultipleLights.vcxproj -> F:\vs2017\LearnOpenGL\MultipleLights\MultipleLights\Debug\MultipleLights.exe
