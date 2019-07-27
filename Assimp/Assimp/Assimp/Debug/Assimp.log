@@ -1,0 +1,10 @@
+﻿  main.cpp
+f:\vs2017\learnopengl\assimp\assimp\assimp\main.cpp(93): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\assimp\assimp\assimp\main.cpp(167): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\assimp\assimp\assimp\main.cpp(168): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\assimp\assimp\assimp\main.cpp(172): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\assimp\assimp\assimp\main.cpp(173): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\assimp\assimp\assimp\main.cpp(175): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\assimp\assimp\assimp\main.cpp(176): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\assimp\assimp\assimp\main.cpp(185): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Assimp.vcxproj -> F:\vs2017\LearnOpenGL\Assimp\Assimp\Debug\Assimp.exe
