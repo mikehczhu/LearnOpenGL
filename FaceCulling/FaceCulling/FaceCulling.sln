@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FaceCulling", "FaceCulling\FaceCulling.vcxproj", "{E5AAA207-9040-4E62-8A43-8CD33BC0F252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5AAA207-9040-4E62-8A43-8CD33BC0F252}.Debug|x64.ActiveCfg = Debug|x64
+		{E5AAA207-9040-4E62-8A43-8CD33BC0F252}.Debug|x64.Build.0 = Debug|x64
+		{E5AAA207-9040-4E62-8A43-8CD33BC0F252}.Debug|x86.ActiveCfg = Debug|Win32
+		{E5AAA207-9040-4E62-8A43-8CD33BC0F252}.Debug|x86.Build.0 = Debug|Win32
+		{E5AAA207-9040-4E62-8A43-8CD33BC0F252}.Release|x64.ActiveCfg = Release|x64
+		{E5AAA207-9040-4E62-8A43-8CD33BC0F252}.Release|x64.Build.0 = Release|x64
+		{E5AAA207-9040-4E62-8A43-8CD33BC0F252}.Release|x86.ActiveCfg = Release|Win32
+		{E5AAA207-9040-4E62-8A43-8CD33BC0F252}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16819D6D-9016-44D0-A28F-D26F30F73EAE}
+	EndGlobalSection
+EndGlobal
