@@ -1,0 +1,10 @@
+﻿  main.cpp
+f:\vs2017\learnopengl\blending\blend\blend\main.cpp(217): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\blending\blend\blend\main.cpp(346): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\blending\blend\blend\main.cpp(347): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\blending\blend\blend\main.cpp(350): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\blending\blend\blend\main.cpp(351): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\blending\blend\blend\main.cpp(352): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\blending\blend\blend\main.cpp(353): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vs2017\learnopengl\blending\blend\blend\main.cpp(358): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Blend.vcxproj -> F:\vs2017\LearnOpenGL\Blending\Blend\Debug\Blend.exe
